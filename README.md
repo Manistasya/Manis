@@ -1,0 +1,2 @@
+# Manis
+Tugas membuat github
